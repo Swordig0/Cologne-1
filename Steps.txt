@@ -1,0 +1,21 @@
+Prepare the setup [Conveyer speed 350Hz, 10 bottles @200g]
+Make sure camera configurations are optimal
+Run Cam Test
+Run frame capture for all possible scenarios
+Sort frames into categories
+Run Bright Detector
+Run Edge Detector
+Assign and analyze the values and find optimals
+Calibrate best frame analyzer
+Run best frame analyzer
+Validate the results
+If not satisfactory recalibrate and reanalyze
+Train the model for best frames
+Run the model deployer
+Analyze the results
+
+If success;
+    Add multithreadding
+    Add PLC
+    Add Indicator
+    Deploy PC

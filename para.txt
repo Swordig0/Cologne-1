@@ -1,0 +1,2 @@
+Bright. Crit 1: 250.0
+Bright. Crit 2: 75.0
